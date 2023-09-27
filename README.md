@@ -19,7 +19,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaantrehan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 <br/>
 </p>
-##  ✍️ Random Dev Quote:
+### ✍️ Random Dev Quote:
 <p align="center">
 <br/>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
