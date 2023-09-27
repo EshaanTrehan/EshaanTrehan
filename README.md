@@ -1,3 +1,6 @@
+<div align="center">
+	<img src="./Wave_Headers.png" width="100%" height="80px"/>
+</div>
 #  Hi there 👋
 ### ⚡ Fun facts:
 - 🔭 I’m currently working on a Machine Learning Model<br>
@@ -25,9 +28,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 <br/>
 </p>
-
-
-
-
-
-
+<p align="center">
+	<img src="./Wave_Bottom.png" width="100%" height="60px"/>
+</p>
