@@ -1,6 +1,7 @@
 <div align="center">
 	<img src="./Wave_Headers.png" width="100%" height="80px"/>
 </div>
+
 #  Hi there 👋
 ### ⚡ Fun facts:
 - 🔭 I’m currently working on a Machine Learning Model<br>
