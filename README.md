@@ -1,5 +1,5 @@
 #  Hi there 👋
-### ⚡ Fun fact:
+### ⚡ Fun facts:
 - 🔭 I’m currently working on a Machine Learning Model<br>
 - 🌱 I’m currently learning up my basics in Deep Learning.<br>
 - 👨‍💻 All of my projects are available at https://eshaantrehan.github.io/<br>
