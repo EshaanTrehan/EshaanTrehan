@@ -29,9 +29,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </p>
-The <p align="center">...</p> should center-align the content inside. By using the <img> tag instead of the markdown ![]() notation, you have more control over the rendering.
 
-Once you've made these changes, preview the README on GitHub to see if the content is centered as expected. If there's still an issue, some additional adjustments might be necessary.
 
 
 
